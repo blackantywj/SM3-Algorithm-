@@ -1,4 +1,4 @@
-'''
+
 Example 1 ：The input message is string: abc
 
 The ASCII of input string can be represent as :
@@ -314,4 +314,5 @@ C6329C3C  31E9309D  EB2FC3EC  720E97D6  C672AD96  EECF99BE  597C6A7B  5BA06F91
 The value of hash ：
 DEBE9FF9  2275B8A1  38604889  C18E5A4D  6FDB70E5  387E5765  293DCBA3  9C0C5732  
 All time = 0.229s
-'''
+
+
